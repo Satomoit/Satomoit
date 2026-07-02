@@ -8,7 +8,7 @@ Building interactive experiences through code, art and storytelling.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josiane-de-f%C3%A1tima-bueno-362461326/">LinkedIn</a> •
-  <a href="https://www.youtube.com/@SatomoitJB">YouTube</a> •
+  <a href="https://www.youtube.com/@SatomoitJB">YouTube</a> 
 </p>
 
 ---
