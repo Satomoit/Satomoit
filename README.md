@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Josiane Bueno </h1>
+<h1 align="center">Hi, I'm Josiane Bueno 𖦹 </h1>
 
 <h3 align="center">Computer Science Student </h3>
 
@@ -23,36 +23,37 @@ I'm passionate about turning ideas into projects while continuously learning new
 
 ---
 
-## 💻 Main Skills
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,html,css,git,linux" />
+## ✴︎ Main Skills
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,html,css,dotnet,git,linux,godot" />
 </p>
-
 ---
 
-## 🛠️ Tools & Technologies
+## 𝄞 Tools & Technologies
 
 - OpenGL
-- .NET
+- Godot
 - Visual Studio
 - VS Code
-- Git & GitHub
-- Linux
-- Windows
+- GitHub
 - Krita
 - Aseprite
+- Photoshop
+- WordPress
+- Canva
 
 ---
 
-## 🌱 Currently Learning
+## .☘︎ ݁˖ Currently Learning
 
 - Godot
 - Game Design
+- Java
+- Python
 
 ---
 
-## 🎨 Creative Skills
+## ☕︎ Creative Skills
 
 - Pixel Art (Aseprite)
 - Digital Illustration (Krita)
