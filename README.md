@@ -7,19 +7,9 @@ Building interactive experiences through code, art and storytelling.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josiane-de-f%C3%A1tima-bueno-362461326/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/josiane-de-f%C3%A1tima-bueno-362461326/">LinkedIn</a> ✦
   <a href="https://www.youtube.com/@SatomoitJB">YouTube</a> 
 </p>
-
----
-
-## .✦ ݁˖ About Me
-
-Hi! I'm Josiane, a Computer Science student at PUC Minas (Poços de Caldas), Brazil.
-
-I enjoy developing games, studying computer graphics and building interactive applications.
-
-I'm passionate about turning ideas into projects while continuously learning new technologies and improving my programming skills.
 
 ---
 
@@ -27,36 +17,48 @@ I'm passionate about turning ideas into projects while continuously learning new
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,html,css,dotnet,git,linux,godot" />
 </p>
+
 ---
 
 ## 𝄞 Tools & Technologies
 
-- OpenGL
-- Godot
-- Visual Studio
-- VS Code
-- GitHub
-- Krita
-- Aseprite
-- Photoshop
-- WordPress
-- Canva
+<p>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 ---
 
 ## .☘︎ ݁˖ Currently Learning
 
-- Godot
-- Game Design
-- Java
-- Python
+<p>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Game_Design-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
 ## ☕︎ Creative Skills
 
-- Pixel Art (Aseprite)
-- Digital Illustration (Krita)
-- UI Design
-- Game Design
-- Animation
+<p>
+  <img src="https://img.shields.io/badge/Pixel_Art-Aseprite-7D929E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digital_Illustration-Krita-3BABFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI_Design-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Game_Design-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Animation-FFB000?style=for-the-badge"/>
+</p>
