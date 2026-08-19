@@ -232,52 +232,7 @@ PIXEL ART ✦ DIGITAL ART ✦ GAME DEV
 </tr>
 </table>
 
-## `05 // github activity`
-
-<div align="center">
-
-<table width="90%">
-<tr>
-<td align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satomoit&theme=github_dark"
-width="100%"
-/>
-
-</td>
-</tr>
-</table>
-
-<table width="90%">
-<tr>
-
-<td width="50%" align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satomoit&theme=github_dark"
-width="100%"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satomoit&theme=github_dark"
-width="100%"
-/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## `06 // classified`
+## `?? // classified`
 
 <details>
 
