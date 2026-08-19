@@ -63,22 +63,24 @@ I like creating things somewhere between **code, art and storytelling**, especia
 
 ### `development & tools`
 
-<img src="https://skillicons.dev/icons?i=react,dotnet,godot,git,github,linux,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=react,dotnet,godot,git,github,linux,vscode,visualstudio,wordpress" />
+
+<br>
+
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
 
 <br>
 
 ### `creative tools`
 
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
 <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white"/>
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
 <br>
 
-### `currently exploring`
+### `currently learning`
 
 <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
 <img src="https://img.shields.io/badge/Game_Design-8E44AD?style=for-the-badge"/>
@@ -86,8 +88,6 @@ I like creating things somewhere between **code, art and storytelling**, especia
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
-
----
 
 ## `03 // case files`
 
