@@ -103,12 +103,15 @@ Small 2D maze game developed in C.
 
 **C** ✦ **Graphics** ✦ **Game Dev**
 
-<br><br>
+<br>
 
 <a href="https://github.com/Satomoit/MiniGame_Labirinto">
 → access case file
 </a>
+<br>
 
+`STATUS :: POSSIBLE FUTURE REWORK`
+<br><br>
 </td>
 
 <td width="50%" valign="top">
@@ -118,10 +121,22 @@ Small 2D maze game developed in C.
 Narrative game project combining investigation, memories, art and storytelling.
 
 **Game Dev** ✦ **Storytelling** ✦ **2D Art**
+<br>
 
-<br><br>
+<a href="https://satomoit.github.io/tinea-site/">
+→ learn more about Tinea
+</a>
+
+<br>
+
+<a href="https://github.com/Satomoit/tinea-site">
+→ access website repository
+</a>
+
+<br>
 
 `STATUS :: IN DEVELOPMENT`
+<br><br>
 
 </td>
 
@@ -137,9 +152,9 @@ Web project for organizing coffee harvesting records.
 
 **React** ✦ **TypeScript** ✦ **UI/UX**
 
-<br><br>
 
 `STATUS :: IN DEVELOPMENT`
+<br><br>
 
 </td>
 
@@ -149,15 +164,16 @@ Web project for organizing coffee harvesting records.
 
 University projects, experiments and suspicious pieces of code.
 
-<br><br>
+<br>
 
 <a href="https://github.com/Satomoit?tab=repositories">
 → investigate repositories
 </a>
 
-<br><br>
+<br>
 
 `STATUS :: CLASSIFIED`
+<br>
 
 </td>
 
