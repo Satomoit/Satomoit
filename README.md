@@ -1,64 +1,311 @@
-<h1 align="center">Hi, I'm Josiane Bueno 𖦹 </h1>
+<div align="center">
 
-<h3 align="center">Computer Science Student </h3>
+<img src="./m.gif" width="500"/>
 
-<p align="center">
-Building interactive experiences through code, art and storytelling.
-</p>
+# Hey there, welcome to my GitHub!
 
-<p align="center">
+### `computer science student // developer // artist`
+
+*building interactive experiences through code, art and storytelling*
+
+<p>
   <a href="https://www.linkedin.com/in/josiane-de-f%C3%A1tima-bueno-362461326/">LinkedIn</a> ✦
-  <a href="https://www.youtube.com/@SatomoitJB">YouTube</a> 
+  <a href="https://www.youtube.com/@SatomoitJB">YouTube</a>
 </p>
+
+</div>
 
 ---
 
-## ✴︎ Main Skills
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,html,css,dotnet,git,linux,godot" />
-</p>
+## `01 // about this entity`
+
+<table align="center" width="90%">
+<tr>
+
+<td width="32%" align="center" valign="middle">
+
+<img src="./g.gif" width="190"/>
+
+</td>
+
+<td width="68%" valign="middle">
+
+<pre>
+[ ENTITY FILE ]
+
+NAME       :: Josiane Bueno
+ALIAS      :: Satomoit
+CLASS      :: Computer Science Student
+STUDYING   :: Computer Science — PUC Minas
+INTERESTS  :: Game Dev / Art / Technology
+LOCATION   :: Brazil
+STATUS     :: probably coding something...
+</pre>
+
+I like creating things somewhere between **code, art and storytelling**, especially games, interactive projects and weird little ideas.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 𝄞 Tools & Technologies
+## `02 // languages & tools`
 
-<p>
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
+### `languages`
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,js,java,python,html,css" />
+
+<br>
+
+### `development & tools`
+
+<img src="https://skillicons.dev/icons?i=react,dotnet,godot,git,github,linux,vscode,visualstudio" />
+
+<br>
+
+### `creative tools`
+
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+
+<br>
+
+### `currently exploring`
+
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Game_Design-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</div>
 
 ---
 
-## .☘︎ ݁˖ Currently Learning
+## `03 // case files`
 
-<p>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Game_Design-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `MINI GAME LABIRINTO`
+
+Small 2D maze game developed in C.
+
+**C** ✦ **Graphics** ✦ **Game Dev**
+
+<br><br>
+
+<a href="https://github.com/Satomoit/MiniGame_Labirinto">
+→ access case file
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `TINEA`
+
+Narrative game project combining investigation, memories, art and storytelling.
+
+**Game Dev** ✦ **Storytelling** ✦ **2D Art**
+
+<br><br>
+
+`STATUS :: IN DEVELOPMENT`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `CADERNO DA COLHEITA`
+
+Web project for organizing coffee harvesting records.
+
+**React** ✦ **TypeScript** ✦ **UI/UX**
+
+<br><br>
+
+`STATUS :: IN DEVELOPMENT`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `[ MORE FILES ]`
+
+University projects, experiments and suspicious pieces of code.
+
+<br><br>
+
+<a href="https://github.com/Satomoit?tab=repositories">
+→ investigate repositories
+</a>
+
+<br><br>
+
+`STATUS :: CLASSIFIED`
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## ☕︎ Creative Skills
+## `04 // personal archives`
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Pixel_Art-Aseprite-7D929E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Digital_Illustration-Krita-3BABFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI_Design-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Game_Design-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Animation-FFB000?style=for-the-badge"/>
-</p>
+  ### things that live rent free in my head
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="58%" valign="top">
+
+
+**𖦹 ORDEM PARANORMAL 𖦹**  
+**ENIGMA DO MEDO**
+
+<br>
+
+GAMES ✦ HORROR ✦ MYSTERIES ✦ RPG
+
+NOVELS ✦ MANHWAS ✦ ANIME ✦ MUSIC
+
+PIXEL ART ✦ DIGITAL ART ✦ GAME DEV
+
+</td>
+
+<td width="42%" align="center" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center">
+  <img src="./c.gif" width="260"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+*fictional worlds, suspicious lore, pretty art and things that refuse to leave my brain*
+
+<br><br>
+
+**[ paranormal activity detected ]**
+
+</td>
+
+</tr>
+</table>
+
+## `05 // github activity`
+
+<div align="center">
+
+<table width="90%">
+<tr>
+<td align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satomoit&theme=github_dark"
+width="100%"
+/>
+
+</td>
+</tr>
+</table>
+
+<table width="90%">
+<tr>
+
+<td width="50%" align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satomoit&theme=github_dark"
+width="100%"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satomoit&theme=github_dark"
+width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## `06 // classified`
+
+<details>
+
+<summary><strong>𖦹 access restricted file</strong></summary>
+
+<br>
+
+```txt
+INITIALIZING...
+
+████████████████████████ 100%
+
+ACCESS GRANTED
+
+ENTITY        :: SATOMOIT
+STATUS        :: ONLINE
+THREAT LEVEL  :: probably harmless
+
+KNOWN ACTIVITY
+
+> coding
+> drawing
+> reading
+> playing games
+> collecting fictional obsessions
+> creating suspicious projects
+> opening way too many tabs
+
+SIGNAL STATUS :: STABLE
+```
+
+</details>
+
+---
+
+<div align="center">
+
+### `TRANSMISSION ENDED`
+
+<img src="./hk.gif" width="430"/>
+
+## `[ END OF FILE ]`
+
+### "True art is nothing but a reflection of the feelings of those who behold it."
+## 𖦹
+
+</div>
