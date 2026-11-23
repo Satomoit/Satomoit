@@ -4,13 +4,23 @@
 
 # Hey there, welcome to my GitHub!
 
-### `computer science student // developer // artist`
+### `developer // artist // game dev enthusiast`
 
 *building interactive experiences through code, art and storytelling*
 
+Currently exploring game development, web technologies
+and creative projects.
+
+`STATUS :: OPEN TO OPPORTUNITIES`
+
+Open to remote internships, junior roles,
+freelance projects and creative collaborations.
+
 <p>
   <a href="https://www.linkedin.com/in/josiane-de-f%C3%A1tima-bueno-362461326/">LinkedIn</a> ✦
+    <a href="josiane.bueno.dev@gmail.com">Email</a> ✦
   <a href="https://www.youtube.com/@SatomoitJB">YouTube</a>
+  
 </p>
 
 </div>
@@ -35,8 +45,9 @@
 
 NAME       :: Josiane Bueno
 ALIAS      :: Satomoit
-CLASS      :: Computer Science Student
-STUDYING   :: Computer Science — PUC Minas
+CLASS      :: Developer / Artist
+BACKGROUND :: Computer Science — PUC Minas
+EDUCATION  :: Coursework through 5th semester
 INTERESTS  :: Game Dev / Art / Technology
 LOCATION   :: Brazil
 STATUS     :: probably coding something...
